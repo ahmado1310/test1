@@ -16,6 +16,8 @@ public class SQLHandler {
     private static String password = "bankSystem";
     private static Connection connection = null;
 
+    //jjiqegfuzewgudxgwd7ibxf7tsg
+
     public static void connect() {
         if(!isConnected()) {
             connection = null;
